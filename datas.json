@@ -1,0 +1,36 @@
+[{
+    "userId" : "1",
+    "phoneNumber" : "99112233",
+    "errorLog": [
+        "Error-1",
+        "Error-2",
+        "Error-3",
+        "Error-4",
+        "Error-5",
+        "Error-6"
+    ]
+},
+{
+    "userId" : "2",
+    "phoneNumber" : "88112233",
+    "errorLog": [
+        "Error-1",
+        "Error-2",
+        "Error-3",
+        "Error-4",
+        "Error-5",
+        "Error-6"
+    ]
+},
+{
+    "userId" : "3",
+    "phoneNumber" : "95112233",
+    "errorLog": [
+        "Error-1",
+        "Error-2",
+        "Error-3",
+        "Error-4",
+        "Error-5",
+        "Error-6"
+    ]
+}]
